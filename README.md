@@ -28,7 +28,7 @@ _El markdown es un lenguaje de marcado, usando simbolos sencillos para dar forma
 ---
 
 1. Titulos y subtitulos 
-    - Sirve para estructurar y jerarquizar el contenido ded un documento, mejorando su legibilidad y organizacion
+    - Sirve para estructurar y jerarquizar el contenido de un documento, mejorando su legibilidad y organizacion
 
 2. Texto en negritas y cursivas
     - Su uso consiste en resaltar palabras clave o conceptos muy importante, captanto la atencion del lector, mientras que la cursiva se usa para dar enfasis
@@ -53,7 +53,7 @@ _El markdown es un lenguaje de marcado, usando simbolos sencillos para dar forma
     - sirve principalmente para ver el status dee un repositorio de git asi como tambien muestra los archivos modificados
 2. git add
     - sirve principalmente para agregar archivos al area de preparacion antes de ser enviados
-3. git add "<nombre del archivo>"
+3. git add   ` ` `<nombre del archivo> ` ` `
     - permite anadir, editar o eliminar un archivo individual dependiendo del comando git en cuestion, en este caso "add" anade un archivo
 4. git add -A
     - permite seleccionar todos los archivos
